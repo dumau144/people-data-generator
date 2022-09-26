@@ -1,0 +1,19 @@
+{
+  "name": "gerapessoasapi",
+  "version": "1.0.0",
+  "description": "uma API para gerar dados pessoais falsos porem consistentes, para uso em cadastros ou gerar dados para popular um banco-teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumau144/people-data-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumau144/people-data-generator/issues"
+  },
+  "homepage": "https://github.com/dumau144/people-data-generator#readme"
+}
